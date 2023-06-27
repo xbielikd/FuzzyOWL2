@@ -42,8 +42,11 @@ MY ACCOUNT > Licenses > Review your current licenses > your license > install > 
 After opening Gurobi solver app on your PC, you wil be asked to type your license key. (If you use academic license, you will probably need to be connected on academic network.)
 
 In order to allow executable files to be found when needed, you have to modify a few environment variables:
+
     • GUROBI_HOME should point to the <installdir>.
+    
     • PATH should be extended to include <installdir>/bin.
+    
     • LD_LIBRARY_PATH should be extended to include <installdir>/lib.
 
 
