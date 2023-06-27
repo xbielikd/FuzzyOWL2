@@ -32,9 +32,9 @@ Contains fuzzyDL reasoner, Fuzzy OWL2 parser and Protége 4.3 plug-in.
 
 Download and unzip to the new directory. The "FuzzyDL" is the main folder.
 
-Copy the FuzzyOWL2PlugIn.jar into Protege plugin folder
-  
-Copy the dlib folder into the Protege folder
+Copy the FuzzyOWL2PlugIn.jar into Protege plugin folder.
+
+Copy the dlib folder into the Protege folder.
 
 
 - Gurobi:
@@ -59,4 +59,5 @@ In order to allow executable files to be found when needed, you have to modify a
     
     • LD_LIBRARY_PATH should be extended to include <installdir>/lib.
 
+To check if everything is set up correctly run "java -jar FuzzyDL.jar ./test.txt" in terminal in folder where FuzzyDL.jar is located.
 
