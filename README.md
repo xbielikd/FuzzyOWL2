@@ -3,7 +3,8 @@ FuzzyOWL, Protége 4.3 and Gurobi installation
 
 Requirements: Java 8, Protége 4.3, FuzzyOWL2, Gurobi
 
-Java 8:
+
+- Java 8:
 
 Download from: https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
 
@@ -11,7 +12,8 @@ Registration is needed.
 
 After that, you can download Java SE Development Kit 8u181. What type depends on your OS.
 
-Protége:
+
+- Protége:
 
 Download from: https://protege.stanford.edu/download/protege/4.3/
 
@@ -19,9 +21,10 @@ We need version 4.3 because we are sure that this version of Protége is compati
 
 Download with Java VM.
 
-In installation process we will be asked to choose which java we want to use- select JDK 8u181. 
+In installation process we will be asked to choose which java we want to use- select JDK 8u181.
 
-FuzzyOWL2:
+
+- FuzzyOWL2:
 
 Download from https://www.umbertostraccia.it/cs/software/fuzzyDL/fuzzyDL.html
 
@@ -33,7 +36,8 @@ Download and unzip to the new directory. The "FuzzyDL" is the main folder.
   
 - copy the dlib folder into the Protege folder
 
-Gurobi:
+
+- Gurobi:
 
 Firstly we need to register on: https://www.gurobi.com 
 
