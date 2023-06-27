@@ -32,9 +32,9 @@ Contains fuzzyDL reasoner, Fuzzy OWL2 parser and Protége 4.3 plug-in.
 
 Download and unzip to the new directory. The "FuzzyDL" is the main folder.
 
-- copy the FuzzyOWL2PlugIn.jar into Protege plugin folder
+Copy the FuzzyOWL2PlugIn.jar into Protege plugin folder
   
-- copy the dlib folder into the Protege folder
+Copy the dlib folder into the Protege folder
 
 
 - Gurobi:
