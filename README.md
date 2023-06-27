@@ -19,6 +19,8 @@ We need version 4.3 because we are sure that this version of Protége is compati
 
 Download with Java VM.
 
+In installation process we will be asked to choose which java we want to use- select JDK 8u181. 
+
 FuzzyOWL2:
 
 Download from https://www.umbertostraccia.it/cs/software/fuzzyDL/fuzzyDL.html
@@ -26,6 +28,10 @@ Download from https://www.umbertostraccia.it/cs/software/fuzzyDL/fuzzyDL.html
 Contains fuzzyDL reasoner, Fuzzy OWL2 parser and Protége 4.3 plug-in.
 
 Download and unzip to the new directory. The "FuzzyDL" is the main folder.
+
+- copy the FuzzyOWL2PlugIn.jar into Protege plugin folder
+  
+- copy the dlib folder into the Protege folder
 
 Gurobi:
 
