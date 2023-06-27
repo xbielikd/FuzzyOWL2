@@ -23,6 +23,10 @@ Download with Java VM.
 
 In installation process we will be asked to choose which java we want to use- select JDK 8u181.
 
+In some cases is needed to add newer version of felix framework. Download from https://felix.apache.org/documentation/downloads.html
+
+Add into bin folder newer version.
+
 
 - FuzzyOWL2:
 
@@ -35,6 +39,8 @@ Download and unzip to the new directory. The "FuzzyDL" is the main folder.
 Copy the FuzzyOWL2PlugIn.jar into Protege plugin folder.
 
 Copy the dlib folder into the Protege folder.
+
+
 
 
 - Gurobi:
