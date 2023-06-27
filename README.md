@@ -5,7 +5,9 @@ Requirements: Java 8, Protége 4.3, FuzzyOWL2, Gurobi
 
 Java 8:
 Download from: https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
+
 Registration is needed.
+
 After that, you can download Java SE Development Kit 8u181. What type depends on your OS.
 
 Protége:
